@@ -1,6 +1,7 @@
 # Movie-Trailer-Website
 Udacity project: Programming Fundamentals with Python
 
+
 What?
 
 This code is a part of submission for Udacity program "Programming Fundamentals with Python".
@@ -11,12 +12,16 @@ This submission contains 3 python files.
 entertainment_center.py -> Stores the movie information. (Movie Title, Image URL, Youtube URL)
 media.py -> Contains a class Movie. This class has methods that provides constructor method to use information stored in entertainment_center.py.
             The class Movie also has a method to play the youtube URL.
-            
 fresh_tomatoes.py -> This helps in styles and scripting for the HTML page.
+
+
 
 Where to Start?
 
-Execution of entertainment_center.py will generate the static webpage.
+Add your movies and details as they are mentioned for other Movies.
+Add the new movie variable in the List Movie
+Execute entertainment_center.py to generate static webpage.
+
 
 
 
