@@ -1,6 +1,8 @@
 import webbrowser
+#importing python library webbrowser
 
 class Movie():
+	"""This Class provides a constructor method to store movie title, storyline, poster image and youtube trailer link. This Class also provides a method to open the youtube video in a browser"""
 	def __init__(self,movie_title,movie_storyline,poster_image,trailer_youtube):
 		self.title = movie_title
 		self.storyline = movie_storyline
