@@ -2,7 +2,7 @@ import media
 import fresh_tomatoes
 #Importing media and fresh_tomatoes libraries
 
-"""This python file stores the movie information. (Movie Title, Image URL, Youtube URL)"""
+#This python file stores the movie information. (Movie Title, Image URL, Youtube URL)
 
 toystory = media.Movie("Toy Story", "Toy Story is a 1995 American computer-animated buddy-comedy adventure film", "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg", "https://www.youtube.com/watch?v=4KPTXpQehio")
 
